@@ -1,0 +1,13 @@
+# Environments
+.venv/
+env/
+venv/
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Jika file data dan model Anda nanti membengkak di atas 100MB, 
+# lepas tanda pagar (#) di bawah ini agar GitHub tidak menolak upload Anda:
+# *.csv
+# *.h5
