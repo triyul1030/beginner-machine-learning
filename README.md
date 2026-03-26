@@ -36,8 +36,8 @@ Proyek ini merupakan implementasi algoritma **Machine Learning**, yaitu *Unsuper
    - Menggunakan metrik `classification_report` untuk mengekstraksi informasi Precision, Recall, F-1 Score, dan Accuracy.
 
 ## File dan Aset
-- `[Clustering]_Submission_Akhir_BMLP_Tri_Yulianto.ipynb`: File *Jupyter Notebook* terkait EDA hingga Clustering.
-- `[Klasifikasi]_Submission_Akhir_BMLP_Tri_Yulianto.ipynb`: File *Jupyter Notebook* yang membangun peramal klaster dari algoritma Random Forest vs Decision Tree.
+- `Clustering.ipynb`: File *Jupyter Notebook* terkait EDA hingga Clustering.
+- `Klasifikasi.ipynb`: File *Jupyter Notebook* yang membangun peramal klaster dari algoritma Random Forest vs Decision Tree.
 - `requirements.txt`: Kumpulan modul library.
 - **Data (.csv)**: Kumpulan data awal maupun konversi inversi (seperti `data_clustering_inverse.csv`).
 - **Models (.h5)**: 5 variasi kerangka kerja model AI (*export* menggunakan `joblib.dump()`) untuk *testing* / *autograder*.
